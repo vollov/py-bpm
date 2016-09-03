@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/flow/__init__.py=utf-8
+encoding//src/flow/graph.py=utf-8
+encoding//test/db_connect_test.py=utf-8
+encoding//test/flow/graph_test.py=utf-8
